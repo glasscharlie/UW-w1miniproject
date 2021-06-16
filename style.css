@@ -91,6 +91,12 @@ img {
     border-color:blue;
 }
 
+#seags {
+    position: relative;
+    left:25%;
+    border-color:blue;
+}
+
 #copyright {
     position: absolute;
     bottom: 1%;
